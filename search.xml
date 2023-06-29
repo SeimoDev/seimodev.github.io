@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World!!!</title>
+    <title>新博客纪念</title>
     <url>/2023/06/29/Hello-World/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World !!!"></a>Hello World !!!</h2><p>这是本博客的第一篇文章，未来写的文章都会在这里发布哦！</p>
+]]></content>
+      <categories>
+        <category>吹水</category>
+      </categories>
+      <tags>
+        <tag>闲聊</tag>
+      </tags>
   </entry>
 </search>
