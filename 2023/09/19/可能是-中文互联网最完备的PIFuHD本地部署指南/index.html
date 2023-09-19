@@ -86,7 +86,7 @@
 <li>pytorch版本：1.12.0</li>
 <li>编译器版本：gcc 9.4.0</li>
 </ul>
-<h2 id="0x2-环境准备"><a href="#0x2-环境准备" class="headerlink" title="0x2 环境准备"></a>0x2 环境准备</h2><h3 id="安装Ubuntu22-04"><a href="#安装Ubuntu22-04" class="headerlink" title="安装Ubuntu22.04"></a>安装Ubuntu22.04</h3><p>在(Ubuntu官网)[<a target="_blank" rel="noopener" href="https://cn.ubuntu.com/download/desktop]">https://cn.ubuntu.com/download/desktop]</a> 下载安装镜像，使用UltraISO等软件制作启动U盘，在BIOS中设置U盘启动，进入Ubuntu安装界面，选择安装Ubuntu，一路默认安装即可，注意勾选“安装专有的硬件驱动”。由于虚拟机无法使用CUDA，所以请<strong>不要</strong>使用虚拟机安装！！！</p>
+<h2 id="0x2-环境准备"><a href="#0x2-环境准备" class="headerlink" title="0x2 环境准备"></a>0x2 环境准备</h2><h3 id="安装Ubuntu22-04"><a href="#安装Ubuntu22-04" class="headerlink" title="安装Ubuntu22.04"></a>安装Ubuntu22.04</h3><p>在<a target="_blank" rel="noopener" href="https://cn.ubuntu.com/download/desktop">Ubuntu官网</a>下载安装镜像，使用UltraISO等软件制作启动U盘，在BIOS中设置U盘启动，进入Ubuntu安装界面，选择安装Ubuntu，一路默认安装即可，注意勾选“安装专有的硬件驱动”。由于虚拟机无法使用CUDA，所以请<strong>不要</strong>使用虚拟机安装！！！</p>
 <h3 id="安装显卡驱动"><a href="#安装显卡驱动" class="headerlink" title="安装显卡驱动"></a>安装显卡驱动</h3><p>安装完成Ubuntu后，打开终端，输入命令：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">sudo apt update</span><br><span class="line">sudo apt upgrade</span><br><span class="line">ubuntu-drivers list</span><br></pre></td></tr></table></figure>
 <p>此时系统会列出适用于当前设备的显卡驱动，比如</p>
