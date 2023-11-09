@@ -34,56 +34,38 @@
       </tags>
   </entry>
   <entry>
-    <title>洛必达法则在高中数学中的简单应用</title>
-    <url>/2023/07/04/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%9C%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<h2 id="0x0-洛必达是什么"><a href="#0x0-洛必达是什么" class="headerlink" title="0x0 洛必达是什么"></a>0x0 洛必达是什么</h2><p>对于<code>洛必达法则</code>，维基百科是这样介绍的:</p>
-<blockquote>
-<p>洛必达法则（法语：Règle de L’Hôpital，英语：L’Hôpital’s rule）是利用导数来计算具有不定型的极限的方法。该法则以法国数学家纪尧姆·德·洛必达的名字命名，但实际上是由瑞士数学家<a href="https://zh.wikipedia.org/zh-cn/%E7%B4%84%E7%BF%B0%C2%B7%E7%99%BD%E5%8A%AA%E5%88%A9" title="这是一个维基链接，在中国大陆可能无法正常访问">约翰·伯努利</a>所发现。</p>
-</blockquote>
-<p>  借助一个简单的例子，我们可以轻松了解什么是洛必达法则:</p>
-<ul>
-<li><p>例 0-1</p>
-<p>对于函数 $f(x)&#x3D;\frac{ln(x)}{x-1}$ ，求$\lim_{x \to 1}f(x)$的极限。</p>
-<p>通过简单的取特殊值描点连线，我们可以得到该函数的图像:</p>
-<p><img src="https://s1.ax1x.com/2023/07/04/pCscOfg.png"><br>当我们试图将$x&#x3D;1$代入函数式时，我们会发现，分母$x-1$在此时等于$0$，明显地，这是有悖于我们的常识，分母是不能为$0$的</p>
-<p>那么我们该如何解决这个问题呢？</p>
-<p>现在我们将分子和分母拆分来看，分别得到函数式和图像:<br>$$<br>g(x)&#x3D;ln(x)<br>$$<br><img src="https://s1.ax1x.com/2023/07/04/pCsgs3Q.png"><br>$$<br>h(x)&#x3D;x-1<br>$$</p>
-<p><img src="https://s1.ax1x.com/2023/07/04/pCsg2Bq.png"></p>
-<p>不难发现，函数$g(x)$和$h(x)$均过点$(1,0)$，故我们将其无限放大，由于两者均为可微函数，且可微函数局部是线性的，因此二者的无限放大图像均为直线。</p>
-<p>回想我们曾经学到的关于<code>斜率</code>的定义，可以意识到，在这种极限情况下，我们可以将极限处的斜率作为函数值使用，故可得:</p>
-<p>$$<br>lim_{(x\to 1)}f(x)&#x3D;lim_{(x\to 1)}\frac{g(x)}{h(x)}&#x3D;lim_{(x\to 1)}\frac{g’(x)}{h’(x)}&#x3D;lim_{(x\to 1)}\frac{\frac{1}{x}}{1}&#x3D;1<br>$$</p>
-</li>
-</ul>
-<h2 id="0x1-洛必达法则的局限性"><a href="#0x1-洛必达法则的局限性" class="headerlink" title="0x1 洛必达法则的局限性"></a>0x1 洛必达法则的局限性</h2><ol>
-<li>分子分母同时趋向于$0$($\frac{0}{0}$)或同时趋向于$\infty$($\frac{\infty}{\infty}$)</li>
-<li>分子分母在限定的区域内是否分别可导。</li>
-<li>高考不可用(Doge)</li>
-</ol>
-<h2 id="0x2-洛必达法则在高中阶段的例题实战"><a href="#0x2-洛必达法则在高中阶段的例题实战" class="headerlink" title="0x2 洛必达法则在高中阶段的例题实战"></a>0x2 洛必达法则在高中阶段的例题实战</h2><ul>
-<li><p>例2-1</p>
-<p>  当$x&gt;0$时，不等式$e^x {\geq} ax+1$恒成立，求实数$a$的取值范围。</p>
-<p>  解答：</p>
-<p>  分离参数得$a{\leq}\frac{e^x-1}{x}$，其中$a&gt;0$</p>
-<p>  令$f(x)&#x3D;\frac{e^x-1}{x}$，对其求导得</p>
-<p>  $f’(x)&#x3D;\frac{(x-1)e^x+1}{x^2}$，令$g(x)&#x3D;(x-1)e^x+1&#x3D;0$</p>
-<p>  得$x&#x3D;0$</p>
-<p>  对$g(x)$求导，得$g’(x)&#x3D;xe^x$，当$x&gt;0$时，$g’(x)&gt;0$</p>
-<p>  因此$g(x)$在$x&gt;0$时单调递增</p>
-<p>  要求$a\le f(x)$恒成立，因此$a\le f(x)_{min}$，但当$x&#x3D;0$时，$e^x-1&#x3D;x&#x3D;0$，此即为$\frac{0}{0}$型不定式。根据洛必达法则，有：</p>
-<p>  $\lim_{x \rightarrow 0}{\frac{e^x-1}{x}}&#x3D;\lim_{x \rightarrow 0}{\frac{e^x}{1}}&#x3D;1$，因此$a\le 1$，实数 a 的取值范围是$(-\infty ,1]$。</p>
-</li>
-</ul>
-<h2 id="0x3-课后习题"><a href="#0x3-课后习题" class="headerlink" title="0x3 课后习题"></a>0x3 课后习题</h2><blockquote>
-<p>若不等式$ax&gt;sin(x)$对于$x\in (0,\frac{\pi}{2})$恒成立，求$a$的取值范围。</p>
-</blockquote>
-<p>  <em>(答案将会于稍晚些时候发布在评论区)</em></p>
+    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
+    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
+<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
+<p>然后返回主页。</p>
+<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
+<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
+<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
+<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
+<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>领取成功即可。</p>
+<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
+<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
+<p>点击【进入考试】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
+<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
+<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
 ]]></content>
       <categories>
-        <category>数学</category>
+        <category>教程</category>
       </categories>
       <tags>
-        <tag>高中数学</tag>
-        <tag>洛必达</tag>
+        <tag>教程</tag>
       </tags>
   </entry>
   <entry>
@@ -191,6 +173,59 @@
       <tags>
         <tag>PIFuHD</tag>
         <tag>深度学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>洛必达法则在高中数学中的简单应用</title>
+    <url>/2023/07/04/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%9C%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<h2 id="0x0-洛必达是什么"><a href="#0x0-洛必达是什么" class="headerlink" title="0x0 洛必达是什么"></a>0x0 洛必达是什么</h2><p>对于<code>洛必达法则</code>，维基百科是这样介绍的:</p>
+<blockquote>
+<p>洛必达法则（法语：Règle de L’Hôpital，英语：L’Hôpital’s rule）是利用导数来计算具有不定型的极限的方法。该法则以法国数学家纪尧姆·德·洛必达的名字命名，但实际上是由瑞士数学家<a href="https://zh.wikipedia.org/zh-cn/%E7%B4%84%E7%BF%B0%C2%B7%E7%99%BD%E5%8A%AA%E5%88%A9" title="这是一个维基链接，在中国大陆可能无法正常访问">约翰·伯努利</a>所发现。</p>
+</blockquote>
+<p>  借助一个简单的例子，我们可以轻松了解什么是洛必达法则:</p>
+<ul>
+<li><p>例 0-1</p>
+<p>对于函数 $f(x)&#x3D;\frac{ln(x)}{x-1}$ ，求$\lim_{x \to 1}f(x)$的极限。</p>
+<p>通过简单的取特殊值描点连线，我们可以得到该函数的图像:</p>
+<p><img src="https://s1.ax1x.com/2023/07/04/pCscOfg.png"><br>当我们试图将$x&#x3D;1$代入函数式时，我们会发现，分母$x-1$在此时等于$0$，明显地，这是有悖于我们的常识，分母是不能为$0$的</p>
+<p>那么我们该如何解决这个问题呢？</p>
+<p>现在我们将分子和分母拆分来看，分别得到函数式和图像:<br>$$<br>g(x)&#x3D;ln(x)<br>$$<br><img src="https://s1.ax1x.com/2023/07/04/pCsgs3Q.png"><br>$$<br>h(x)&#x3D;x-1<br>$$</p>
+<p><img src="https://s1.ax1x.com/2023/07/04/pCsg2Bq.png"></p>
+<p>不难发现，函数$g(x)$和$h(x)$均过点$(1,0)$，故我们将其无限放大，由于两者均为可微函数，且可微函数局部是线性的，因此二者的无限放大图像均为直线。</p>
+<p>回想我们曾经学到的关于<code>斜率</code>的定义，可以意识到，在这种极限情况下，我们可以将极限处的斜率作为函数值使用，故可得:</p>
+<p>$$<br>lim_{(x\to 1)}f(x)&#x3D;lim_{(x\to 1)}\frac{g(x)}{h(x)}&#x3D;lim_{(x\to 1)}\frac{g’(x)}{h’(x)}&#x3D;lim_{(x\to 1)}\frac{\frac{1}{x}}{1}&#x3D;1<br>$$</p>
+</li>
+</ul>
+<h2 id="0x1-洛必达法则的局限性"><a href="#0x1-洛必达法则的局限性" class="headerlink" title="0x1 洛必达法则的局限性"></a>0x1 洛必达法则的局限性</h2><ol>
+<li>分子分母同时趋向于$0$($\frac{0}{0}$)或同时趋向于$\infty$($\frac{\infty}{\infty}$)</li>
+<li>分子分母在限定的区域内是否分别可导。</li>
+<li>高考不可用(Doge)</li>
+</ol>
+<h2 id="0x2-洛必达法则在高中阶段的例题实战"><a href="#0x2-洛必达法则在高中阶段的例题实战" class="headerlink" title="0x2 洛必达法则在高中阶段的例题实战"></a>0x2 洛必达法则在高中阶段的例题实战</h2><ul>
+<li><p>例2-1</p>
+<p>  当$x&gt;0$时，不等式$e^x {\geq} ax+1$恒成立，求实数$a$的取值范围。</p>
+<p>  解答：</p>
+<p>  分离参数得$a{\leq}\frac{e^x-1}{x}$，其中$a&gt;0$</p>
+<p>  令$f(x)&#x3D;\frac{e^x-1}{x}$，对其求导得</p>
+<p>  $f’(x)&#x3D;\frac{(x-1)e^x+1}{x^2}$，令$g(x)&#x3D;(x-1)e^x+1&#x3D;0$</p>
+<p>  得$x&#x3D;0$</p>
+<p>  对$g(x)$求导，得$g’(x)&#x3D;xe^x$，当$x&gt;0$时，$g’(x)&gt;0$</p>
+<p>  因此$g(x)$在$x&gt;0$时单调递增</p>
+<p>  要求$a\le f(x)$恒成立，因此$a\le f(x)_{min}$，但当$x&#x3D;0$时，$e^x-1&#x3D;x&#x3D;0$，此即为$\frac{0}{0}$型不定式。根据洛必达法则，有：</p>
+<p>  $\lim_{x \rightarrow 0}{\frac{e^x-1}{x}}&#x3D;\lim_{x \rightarrow 0}{\frac{e^x}{1}}&#x3D;1$，因此$a\le 1$，实数 a 的取值范围是$(-\infty ,1]$。</p>
+</li>
+</ul>
+<h2 id="0x3-课后习题"><a href="#0x3-课后习题" class="headerlink" title="0x3 课后习题"></a>0x3 课后习题</h2><blockquote>
+<p>若不等式$ax&gt;sin(x)$对于$x\in (0,\frac{\pi}{2})$恒成立，求$a$的取值范围。</p>
+</blockquote>
+<p>  <em>(答案将会于稍晚些时候发布在评论区)</em></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>高中数学</tag>
+        <tag>洛必达</tag>
       </tags>
   </entry>
   <entry>
