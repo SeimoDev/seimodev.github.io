@@ -1,124 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
-    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
-<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
-<p>然后返回主页。</p>
-<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
-<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
-<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
-<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
-<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
-<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
-<p>领取成功即可。</p>
-<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
-<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
-<p>点击【进入考试】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
-<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
-<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化】Windows/Office数字激活工具</title>
-    <url>/2023/10/05/%E3%80%90%E6%B1%89%E5%8C%96%E3%80%91Windows-Office%E6%95%B0%E5%AD%97%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<p><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">原版链接</a></p>
-<blockquote>
-<p>此工具仅用于学习交流，请勿用于商业用途。<br><img src="https://i.imgs.ovh/2023/10/05/LAi0I.png" alt="LAi0I.png"><br>已获得原作者<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/issues/275">授权</a>进行汉化</p>
-</blockquote>
-<h3 id="屏幕截图"><a href="#屏幕截图" class="headerlink" title="屏幕截图"></a>屏幕截图</h3><p><a href="https://imgloc.com/image/LA4aJ"><img src="https://i.imgs.ovh/2023/10/05/LA4aJ.png" alt="LA4aJ.png"></a><br><img src="https://i.imgs.ovh/2023/10/05/LAY3W.png" alt="LAY3W.png"><br><img src="https://i.imgs.ovh/2023/10/05/LAdOv.png" alt="LAdOv.png"><br><a href="https://imgloc.com/image/LA8Ee"><img src="https://i.imgs.ovh/2023/10/05/LA8Ee.png" alt="LA8Ee.png"></a></p>
-<h3 id="汉化版本下载链接"><a href="#汉化版本下载链接" class="headerlink" title="汉化版本下载链接"></a>汉化版本下载链接</h3><p><a href="https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese/tree/master">Github</a></p>
-<p><a href="https://www.123pan.com/s/T1LcVv-nfrwd.html">123网盘</a>   <code>   提取码:ETnt</code></p>
-]]></content>
-      <categories>
-        <category>汉化</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>Office</tag>
-        <tag>Windows</tag>
-        <tag>HWID2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>洛必达法则在高中数学中的简单应用</title>
-    <url>/2023/07/04/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%9C%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<h2 id="0x0-洛必达是什么"><a href="#0x0-洛必达是什么" class="headerlink" title="0x0 洛必达是什么"></a>0x0 洛必达是什么</h2><p>对于<code>洛必达法则</code>，维基百科是这样介绍的:</p>
-<blockquote>
-<p>洛必达法则（法语：Règle de L’Hôpital，英语：L’Hôpital’s rule）是利用导数来计算具有不定型的极限的方法。该法则以法国数学家纪尧姆·德·洛必达的名字命名，但实际上是由瑞士数学家<a href="https://zh.wikipedia.org/zh-cn/%E7%B4%84%E7%BF%B0%C2%B7%E7%99%BD%E5%8A%AA%E5%88%A9" title="这是一个维基链接，在中国大陆可能无法正常访问">约翰·伯努利</a>所发现。</p>
-</blockquote>
-<p>  借助一个简单的例子，我们可以轻松了解什么是洛必达法则:</p>
-<ul>
-<li><p>例 0-1</p>
-<p>对于函数 $f(x)&#x3D;\frac{ln(x)}{x-1}$ ，求$\lim_{x \to 1}f(x)$的极限。</p>
-<p>通过简单的取特殊值描点连线，我们可以得到该函数的图像:</p>
-<p><img src="https://s1.ax1x.com/2023/07/04/pCscOfg.png"><br>当我们试图将$x&#x3D;1$代入函数式时，我们会发现，分母$x-1$在此时等于$0$，明显地，这是有悖于我们的常识，分母是不能为$0$的</p>
-<p>那么我们该如何解决这个问题呢？</p>
-<p>现在我们将分子和分母拆分来看，分别得到函数式和图像:<br>$$<br>g(x)&#x3D;ln(x)<br>$$<br><img src="https://s1.ax1x.com/2023/07/04/pCsgs3Q.png"><br>$$<br>h(x)&#x3D;x-1<br>$$</p>
-<p><img src="https://s1.ax1x.com/2023/07/04/pCsg2Bq.png"></p>
-<p>不难发现，函数$g(x)$和$h(x)$均过点$(1,0)$，故我们将其无限放大，由于两者均为可微函数，且可微函数局部是线性的，因此二者的无限放大图像均为直线。</p>
-<p>回想我们曾经学到的关于<code>斜率</code>的定义，可以意识到，在这种极限情况下，我们可以将极限处的斜率作为函数值使用，故可得:</p>
-<p>$$<br>lim_{(x\to 1)}f(x)&#x3D;lim_{(x\to 1)}\frac{g(x)}{h(x)}&#x3D;lim_{(x\to 1)}\frac{g’(x)}{h’(x)}&#x3D;lim_{(x\to 1)}\frac{\frac{1}{x}}{1}&#x3D;1<br>$$</p>
-</li>
-</ul>
-<h2 id="0x1-洛必达法则的局限性"><a href="#0x1-洛必达法则的局限性" class="headerlink" title="0x1 洛必达法则的局限性"></a>0x1 洛必达法则的局限性</h2><ol>
-<li>分子分母同时趋向于$0$($\frac{0}{0}$)或同时趋向于$\infty$($\frac{\infty}{\infty}$)</li>
-<li>分子分母在限定的区域内是否分别可导。</li>
-<li>高考不可用(Doge)</li>
-</ol>
-<h2 id="0x2-洛必达法则在高中阶段的例题实战"><a href="#0x2-洛必达法则在高中阶段的例题实战" class="headerlink" title="0x2 洛必达法则在高中阶段的例题实战"></a>0x2 洛必达法则在高中阶段的例题实战</h2><ul>
-<li><p>例2-1</p>
-<p>  当$x&gt;0$时，不等式$e^x {\geq} ax+1$恒成立，求实数$a$的取值范围。</p>
-<p>  解答：</p>
-<p>  分离参数得$a{\leq}\frac{e^x-1}{x}$，其中$a&gt;0$</p>
-<p>  令$f(x)&#x3D;\frac{e^x-1}{x}$，对其求导得</p>
-<p>  $f’(x)&#x3D;\frac{(x-1)e^x+1}{x^2}$，令$g(x)&#x3D;(x-1)e^x+1&#x3D;0$</p>
-<p>  得$x&#x3D;0$</p>
-<p>  对$g(x)$求导，得$g’(x)&#x3D;xe^x$，当$x&gt;0$时，$g’(x)&gt;0$</p>
-<p>  因此$g(x)$在$x&gt;0$时单调递增</p>
-<p>  要求$a\le f(x)$恒成立，因此$a\le f(x)_{min}$，但当$x&#x3D;0$时，$e^x-1&#x3D;x&#x3D;0$，此即为$\frac{0}{0}$型不定式。根据洛必达法则，有：</p>
-<p>  $\lim_{x \rightarrow 0}{\frac{e^x-1}{x}}&#x3D;\lim_{x \rightarrow 0}{\frac{e^x}{1}}&#x3D;1$，因此$a\le 1$，实数 a 的取值范围是$(-\infty ,1]$。</p>
-</li>
-</ul>
-<h2 id="0x3-课后习题"><a href="#0x3-课后习题" class="headerlink" title="0x3 课后习题"></a>0x3 课后习题</h2><blockquote>
-<p>若不等式$ax&gt;sin(x)$对于$x\in (0,\frac{\pi}{2})$恒成立，求$a$的取值范围。</p>
-</blockquote>
-<p>  <em>(答案将会于稍晚些时候发布在评论区)</em></p>
-]]></content>
-      <categories>
-        <category>数学</category>
-      </categories>
-      <tags>
-        <tag>高中数学</tag>
-        <tag>洛必达</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>新博客纪念</title>
     <url>/2023/06/29/Hello-World/</url>
     <content><![CDATA[<h2 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World !!!"></a>Hello World !!!</h2><p>这是本博客的第一篇文章，未来写的文章都会在这里发布哦！</p>
@@ -128,6 +10,130 @@
       </categories>
       <tags>
         <tag>闲聊</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Kindle老矣，尚能饭否？</title>
+    <url>/2024/08/06/Kindle%E8%80%81%E7%9F%A3%EF%BC%8C%E5%B0%9A%E8%83%BD%E9%A5%AD%E5%90%A6%EF%BC%9F/</url>
+    <content><![CDATA[<p>前几天，我的朋友送了我一台Kindle7，我很好奇这台来自十年前的电子阅读器还能带来什么花样，于是就有了这篇文章。</p>
+<h2 id="设备情况"><a href="#设备情况" class="headerlink" title="设备情况"></a>设备情况</h2><p>这台机器发布于2014年9月18日，售价 499 元，而我手上这台白色版本上架于2015年3月31日，同时这也是第一款在中国和日本市场销售的普通 Kindle，详细配置可见下表：</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>参数</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>发布日期</td>
+<td>2014年9月18日</td>
+</tr>
+<tr>
+<td>屏幕大小</td>
+<td>6英寸</td>
+</tr>
+<tr>
+<td>分辨率</td>
+<td>600 * 800</td>
+</tr>
+<tr>
+<td>PPI</td>
+<td>167ppi</td>
+</tr>
+<tr>
+<td>灰阶</td>
+<td>16级</td>
+</tr>
+<tr>
+<td>内存</td>
+<td>256MB</td>
+</tr>
+<tr>
+<td>存储</td>
+<td>4GB</td>
+</tr>
+<tr>
+<td>重量</td>
+<td>191g</td>
+</tr>
+<tr>
+<td>机身厚度</td>
+<td>10.2mm</td>
+</tr>
+<tr>
+<td>背光</td>
+<td>无</td>
+</tr>
+<tr>
+<td>WIFI</td>
+<td>有</td>
+</tr>
+<tr>
+<td>CPU</td>
+<td><code>Freescale i.MX 6SoloLite Cortex-A9 @1GHz</code></td>
+</tr>
+<tr>
+<td>扬声器</td>
+<td>无</td>
+</tr>
+<tr>
+<td>外部接口</td>
+<td>Micro-USB(USB2.0速率)</td>
+</tr>
+<tr>
+<td>输入控制</td>
+<td>红外线触控屏</td>
+</tr>
+<tr>
+<td>电池容量</td>
+<td>890mAh</td>
+</tr>
+<tr>
+<td>充电功率</td>
+<td>2.625w(5.25V*500mA)</td>
+</tr>
+<tr>
+<td>售价</td>
+<td>499RMB</td>
+</tr>
+</tbody></table>
+<h2 id="外观手感"><a href="#外观手感" class="headerlink" title="外观手感"></a>外观手感</h2><p>虽然已经历经多年风雨沧桑，但是由于采用了<del>三星旗舰同款高端</del>塑料外壳，经过简单的酒精擦拭处理，外壳依然洁白无暇。<br><img src="https://cdn.seimo.cn/1723001343896.jpg"></p>
+<p>在握持手感上，也是刚好单手可握的水平，191g的重量无论是在使用时拿捏一角还是携带时整个握持，都不会有撑受压手的感觉。<br><img src="https://cdn.seimo.cn/1723001343881.jpg"><br><img src="https://cdn.seimo.cn/1723001343839.jpg"></p>
+<p>翻过背面，下方是产品信息与参数，中间是镜面镂空的 <code>Amazon</code> Logo，非常符合那个年代电子产品的设计。背面四周采用与 <code>小米13Ultra</code> Deco同款的阶梯设计，握持起来更加平滑，不会出现阁手的感觉。<br><img src="https://cdn.seimo.cn/IMG_20240807_145511.jpg"></p>
+<p>底部设计非常简洁，电源按键作为整机唯一一个物理按键与Micro-USB接口对称排布，中间是橙绿双色指示灯，除此之外在其它位置没有任何开孔<del>可以在地铁上放心使用()</del>。<br><img src="https://cdn.seimo.cn/1723001343852.jpg"></p>
+<h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><p>这款机型最后一次系统更新的版本号为<code>5.12.2.2</code>，我当前使用的系统版本号为<code>5.11.1.1</code>，下文也全部基于此版本进行，不同版本间可能存在差异，请以具体版本为准。<br><img src="https://cdn.seimo.cn/20240807153901.png"></p>
+<p>由于Kindle中国电子书点已于2023年6月30日关闭，所以强烈建议各位使用外区账号，目前测试无需对网络进行特殊处理即可轻松连接。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723016964520.png"><br>原版的Kindle系统其实并没有太多令人惊讶的地方，不过也正常，你也不能奢望拿一台墨水屏的电子阅读器看视频，可能唯一有可玩性的点，在这个“体验版网页浏览器”，时至今日，由于https协议以及证书更新的问题，它也只能打开部分网站，当我在这块600 * 800分辨率的屏幕上看到熟悉的网站时，我又回想起刚刚接触网络的那段日子，那是我家用的还是Windows98，用的是大屁股的CRT显示器。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723017197490.jpg"><br>作为一台阅读器，Kindle做的真的完美吗？我想说是，但也不是。在整个阅读逻辑上，Kindle做到了充分利用墨水屏的特点来设计交互，让你几乎感受不到它的延迟与卡顿。但是，或许是国际大厂的一贯作风，Kindle的系统也很保守，支持的格式非常有限，感知最明显的一点是不支持<code>EPUB</code>格式，这算是这段时间用下来最让我糟心的一点，但是没有办法，要么越狱，要么手动转格式。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723017718613.jpg"></p>
+<p>不过，Kindle操作系统的交互逻辑我是真的很喜欢，几乎所有操作都是由点击完成的，相比滑动操作，点击操作在墨水屏上具有先天优势，同时点击对角位置截屏也是非常棒的设计。</p>
+<h2 id="越狱"><a href="#越狱" class="headerlink" title="越狱"></a>越狱</h2><p>既然原生系统有那么多缺点，那我只能就这么忍着吗？那当然不是了，我们还有大宝贝杀手锏没有用，那就是–越狱。</p>
+<p>关于越狱的过程，我并不准备在这里写一份完整的教程，书伴上已经有很详细的内容了，重复造轮子没有任何意义，我在这里留一个传送门：<a href="https://bookfere.com/post/406.html">Kindle 越狱支持一览：检查 Kindle 设备能否越狱</a>，上面有非常详细的各个型号Kindle的越狱教程。</p>
+<p>现在越狱完成之后，我们能做的事情就很多了，比如我们现在可以更换锁屏壁纸了，借助<code>ScreenSavers</code>插件，我们可以轻松地将自己喜欢的图片设置为锁屏壁纸。<br><img src="https://cdn.seimo.cn/IMG_20240808_095146.jpg" alt="疯狂明示"></p>
+<p>另外，你是否还记得上文提到的Kindle不支持 <code>EPUB</code> 格式吗，在越狱后我们可以使用 <code>KOReader</code> 插件打开 <code>EPUB</code> 格式的文档，另外 <code>KOReader</code> 作为 一款全能的第三方电子书阅读器插件，其优点不止于此。</p>
+<p><code>KOReader</code> 可以采用图像分割再重排的方式处理 PDF 文档（包括扫描和非扫描页面），这样不仅支持文字版PDF重排和数学公式的重排，还能对扫描版 PDF 和 DJVU 文档进行重新排版。重新排版后的文档，文字放大后可以适应屏幕自动换行，免去不断地左右拖动页面阅读。此外，KOReader 还有调整页面对比度、对文字加黑处理、自动切除页面白边、去除页面水印等实用功能。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723084408965.jpg"><br>上图为 <code>《线性代数(第六版)》</code> 扫描版，左边为 <code>KOReader</code> 重新分割增强后的排版与显示效果，右侧为Kindle默认阅读器显示效果。</p>
+<p>在越狱之后，我们还可以安装 <code>File Browser</code> 这款插件，可以实现对Kindle文件的无线管理，不需要使用数据线与电脑连接也可以导入&#x2F;导出文件，非常方便。</p>
+<p>上面提到的这些插件，在<a href="https://bookfere.com/">书伴</a>均有提供安装使用教程和官方下载链接，有需要的可以自行取用。</p>
+<h2 id="刷机"><a href="#刷机" class="headerlink" title="刷机"></a>刷机</h2><div class="admonition warning"><p class="admonition-title">Warning</p><p>下述操作可能会使您的设备丢失全部数据甚至永远无法使用，请确保有足够的能力解决可能出现的任何问题后继续阅读，否则请立即关闭页面并退出！</p>
+</div>
+
+<p>以上越狱之类的还只是开胃小菜，下面才是重量级的拿手好戏，没错，这台Kindle7是可以被刷成Android系统的，而且不止可以刷机，还可以在保留原版系统的情况下与Android构成双系统，尽管是<code>Android 4.4.2</code> 但是256MB内存你还要什么自行车呢。</p>
+<p>由于年代久远，很多机型的Android资料已经很难寻找，博主通过闲鱼购买到了部分机型的刷机资料，大家可以自取。</p>
+<p><a href="https://www.123pan.com/s/T1LcVv-Douwd.html">Kindle越狱与刷机资料</a></p>
+<p><img src="https://cdn.seimo.cn/20240808143935.png"></p>
+<p>下载完成之后根据程序提示操作即可，这里贴一份可能会用到的教程：<a href="https://zyyme.com/usr/uploads/2024/01/hlwm1e0cgx.pdf">Kindle安卓系统刷机指南</a> 。</p>
+<p>尽管配置上捉襟见肘，但是墨水屏的特性让体验好了不少，并不会有感知上的卡顿。但是想要在Android4.4.2上有较好的体验，还是要费一般功夫的，这里找到了酷安大佬 <a href="http://www.coolapk.com/u/3935388">@zzy_ac</a> 整理的 <a href="https://www.coolapk.com/feed/30410723?shareKey=YzE2YzE1OGMwZmQwNjZiNGIwMWI~&shareUid=21385043&shareFrom=com.coolapk.market_14.3.0">适用于Android4.4.2的Elink APPs</a> ，微信读书的体验还是很棒的。</p>
+<p><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723117857900.jpg"><br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723117883526.jpg"><br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723117892068.jpg"></p>
+<p>值得一提的是，这个Android固件已经内置了SuperSU，也就是说它是有ROOT权限的，理论上你可以在上面安装原版的 <code>Xposed 2.6</code> ，然后使用例如 <code>GravityBox</code> 等经典工具对系统进行修改。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723124825604.jpg"></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>Kindle 作为一款电子阅读器本身并没有什么好说的，这篇文章也只是这几天对这台机器折腾内容的一个总结，各种材料网路上已经非常详细，也没必要再大费周章地去重复，大家看个乐就好。</p>
+<p>总的来说，对于我自己还是比较满意这台机器的，作为一台电子阅读器，他做好了它本就该做好的工作，同时也有相当的拓展乐趣，或许多看没有适配这个型号才是它唯一的缺憾吧…</p>
+<h2 id="参考内容"><a href="#参考内容" class="headerlink" title="参考内容"></a>参考内容</h2><blockquote>
+<p>书伴<br>维基百科<br>亚马逊中国</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>评测</category>
+      </categories>
+      <tags>
+        <tag>评测</tag>
+        <tag>Kindle</tag>
       </tags>
   </entry>
   <entry>
@@ -241,127 +247,121 @@
       </tags>
   </entry>
   <entry>
-    <title>Kindle老矣，尚能饭否？</title>
-    <url>/2024/08/06/Kindle%E8%80%81%E7%9F%A3%EF%BC%8C%E5%B0%9A%E8%83%BD%E9%A5%AD%E5%90%A6%EF%BC%9F/</url>
-    <content><![CDATA[<p>前几天，我的朋友送了我一台Kindle7，我很好奇这台来自十年前的电子阅读器还能带来什么花样，于是就有了这篇文章。</p>
-<h2 id="设备情况"><a href="#设备情况" class="headerlink" title="设备情况"></a>设备情况</h2><p>这台机器发布于2014年9月18日，售价 499 元，而我手上这台白色版本上架于2015年3月31日，同时这也是第一款在中国和日本市场销售的普通 Kindle，详细配置可见下表：</p>
-<table>
-<thead>
-<tr>
-<th>项目</th>
-<th>参数</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>发布日期</td>
-<td>2014年9月18日</td>
-</tr>
-<tr>
-<td>屏幕大小</td>
-<td>6英寸</td>
-</tr>
-<tr>
-<td>分辨率</td>
-<td>600 * 800</td>
-</tr>
-<tr>
-<td>PPI</td>
-<td>167ppi</td>
-</tr>
-<tr>
-<td>灰阶</td>
-<td>16级</td>
-</tr>
-<tr>
-<td>内存</td>
-<td>256MB</td>
-</tr>
-<tr>
-<td>存储</td>
-<td>4GB</td>
-</tr>
-<tr>
-<td>重量</td>
-<td>191g</td>
-</tr>
-<tr>
-<td>机身厚度</td>
-<td>10.2mm</td>
-</tr>
-<tr>
-<td>背光</td>
-<td>无</td>
-</tr>
-<tr>
-<td>WIFI</td>
-<td>有</td>
-</tr>
-<tr>
-<td>CPU</td>
-<td><code>Freescale i.MX 6SoloLite Cortex-A9 @1GHz</code></td>
-</tr>
-<tr>
-<td>扬声器</td>
-<td>无</td>
-</tr>
-<tr>
-<td>外部接口</td>
-<td>Micro-USB(USB2.0速率)</td>
-</tr>
-<tr>
-<td>输入控制</td>
-<td>红外线触控屏</td>
-</tr>
-<tr>
-<td>电池容量</td>
-<td>890mAh</td>
-</tr>
-<tr>
-<td>充电功率</td>
-<td>2.625w(5.25V*500mA)</td>
-</tr>
-<tr>
-<td>售价</td>
-<td>499RMB</td>
-</tr>
-</tbody></table>
-<h2 id="外观手感"><a href="#外观手感" class="headerlink" title="外观手感"></a>外观手感</h2><p>虽然已经历经多年风雨沧桑，但是由于采用了<del>三星旗舰同款高端</del>塑料外壳，经过简单的酒精擦拭处理，外壳依然洁白无暇。<br><img src="https://cdn.seimo.cn/1723001343896.jpg"></p>
-<p>在握持手感上，也是刚好单手可握的水平，191g的重量无论是在使用时拿捏一角还是携带时整个握持，都不会有撑受压手的感觉。<br><img src="https://cdn.seimo.cn/1723001343881.jpg"><br><img src="https://cdn.seimo.cn/1723001343839.jpg"></p>
-<p>翻过背面，下方是产品信息与参数，中间是镜面镂空的 <code>Amazon</code> Logo，非常符合那个年代电子产品的设计。背面四周采用与 <code>小米13Ultra</code> Deco同款的阶梯设计，握持起来更加平滑，不会出现阁手的感觉。<br><img src="https://cdn.seimo.cn/IMG_20240807_145511.jpg"></p>
-<p>底部设计非常简洁，电源按键作为整机唯一一个物理按键与Micro-USB接口对称排布，中间是橙绿双色指示灯，除此之外在其它位置没有任何开孔<del>可以在地铁上放心使用()</del>。<br><img src="https://cdn.seimo.cn/1723001343852.jpg"></p>
-<h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><p>这款机型最后一次系统更新的版本号为<code>5.12.2.2</code>，我当前使用的系统版本号为<code>5.11.1.1</code>，下文也全部基于此版本进行，不同版本间可能存在差异，请以具体版本为准。<br><img src="https://cdn.seimo.cn/20240807153901.png"></p>
-<p>由于Kindle中国电子书点已于2023年6月30日关闭，所以强烈建议各位使用外区账号，目前测试无需对网络进行特殊处理即可轻松连接。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723016964520.png"><br>原版的Kindle系统其实并没有太多令人惊讶的地方，不过也正常，你也不能奢望拿一台墨水屏的电子阅读器看视频，可能唯一有可玩性的点，在这个“体验版网页浏览器”，时至今日，由于https协议以及证书更新的问题，它也只能打开部分网站，当我在这块600 * 800分辨率的屏幕上看到熟悉的网站时，握&#x3D;我又回想起刚刚接触网络的那段日子，那是我家用的还是Windows98，用的是大屁股的CRT显示器。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723017197490.jpg"><br>作为一台阅读器，Kindle做的真的完美吗？我想说是，但也不是。在整个阅读逻辑上，Kindle做到了充分利用墨水屏的特点来设计交互，让你几乎感受不到它的延迟与卡顿。但是，或许是国际大厂的一贯作风，Kindle的系统也很保守，支持的格式非常有限，感知最明显的一点是不支持<code>EPUB</code>格式，这算是这段时间用下来最让我糟心的一点，但是没有办法，要么越狱，要么手动转格式。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723017718613.jpg"></p>
-<p>不过，Kindle操作系统的交互逻辑我是真的很喜欢，几乎所有操作都是由点击完成的，相比滑动操作，点击操作在墨水屏上具有先天优势，同时点击对角位置截屏也是非常棒的设计。</p>
-<h2 id="越狱"><a href="#越狱" class="headerlink" title="越狱"></a>越狱</h2><p>既然原生系统有那么多缺点，那我只能就这么忍着吗？那当然不是了，我们还有大宝贝杀手锏没有用，那就是–越狱。</p>
-<p>关于越狱的过程，我并不准备在这里写一份完整的教程，书伴上已经有很详细的内容了，重复造轮子没有任何意义，我在这里留一个传送门：<a href="https://bookfere.com/post/406.html">Kindle 越狱支持一览：检查 Kindle 设备能否越狱</a>，上面有非常详细的各个型号Kindle的越狱教程。</p>
-<p>现在越狱完成之后，我们能做的事情就很多了，比如我们现在可以更换锁屏壁纸了，借助<code>ScreenSavers</code>插件，我们可以轻松地将自己喜欢的图片设置为锁屏壁纸。<br><img src="https://cdn.seimo.cn/IMG_20240808_095146.jpg" alt="疯狂明示"></p>
-<p>另外，你是否还记得上文提到的Kindle不支持 <code>EPUB</code> 格式吗，在越狱后我们可以使用 <code>KOReader</code> 插件打开 <code>EPUB</code> 格式的文档，另外 <code>KOReader</code> 作为 一款全能的第三方电子书阅读器插件，其优点不止于此。</p>
-<p><code>KOReader</code> 可以采用图像分割再重排的方式处理 PDF 文档（包括扫描和非扫描页面），这样不仅支持文字版PDF重排和数学公式的重排，还能对扫描版 PDF 和 DJVU 文档进行重新排版。重新排版后的文档，文字放大后可以适应屏幕自动换行，免去不断地左右拖动页面阅读。此外，KOReader 还有调整页面对比度、对文字加黑处理、自动切除页面白边、去除页面水印等实用功能。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723084408965.jpg"><br>上图为 <code>《线性代数(第六版)》</code> 扫描版，左边为 <code>KOReader</code> 重新分割增强后的排版与显示效果，右侧为Kindle默认阅读器显示效果。</p>
-<p>在越狱之后，我们还可以安装 <code>File Browser</code> 这款插件，可以实现对Kindle文件的无线管理，不需要使用数据线与电脑连接也可以导入&#x2F;导出文件，非常方便。</p>
-<p>上面提到的这些插件，在<a href="https://bookfere.com/">书伴</a>均有提供安装使用教程和官方下载链接，有需要的可以自行取用。</p>
-<h2 id="刷机"><a href="#刷机" class="headerlink" title="刷机"></a>刷机</h2><div class="admonition warning"><p class="admonition-title">Warning</p><p>下述操作可能会使您的设备丢失全部数据甚至永远无法使用，请确保有足够的能力解决可能出现的任何问题后继续阅读，否则请立即关闭页面并退出！</p>
-</div>
-
-<p>以上越狱之类的还只是开胃小菜，下面才是重量级的拿手好戏，没错，这台Kindle7是可以被刷成Android系统的，而且不止可以刷机，还可以在保留原版系统的情况下与Android构成双系统，尽管是<code>Android 4.4.2</code> 但是256MB内存你还要什么自行车呢。</p>
-<p>由于年代久远，很多机型的Android资料已经很难寻找，博主通过闲鱼购买到了部分机型的刷机资料，大家可以自取。</p>
-<p><a href="https://www.123pan.com/s/T1LcVv-Douwd.html">Kindle越狱与刷机资料</a></p>
-<p><img src="https://cdn.seimo.cn/20240808143935.png"></p>
-<p>下载完成之后根据程序提示操作即可，这里贴一份可能会用到的教程：<a href="https://zyyme.com/usr/uploads/2024/01/hlwm1e0cgx.pdf">Kindle安卓系统刷机指南</a> 。</p>
-<p>尽管配置上捉襟见肘，但是墨水屏的特性让体验好了不少，并不会有感知上的卡顿。但是想要在Android4.4.2上有较好的体验，还是要费一般功夫的，这里找到了酷安大佬 <a href="http://www.coolapk.com/u/3935388">@zzy_ac</a> 整理的 <a href="https://www.coolapk.com/feed/30410723?shareKey=YzE2YzE1OGMwZmQwNjZiNGIwMWI~&shareUid=21385043&shareFrom=com.coolapk.market_14.3.0">适用于Android4.4.2的Elink APPs</a> ，微信读书的体验还是很棒的。</p>
-<p><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723117857900.jpg"><br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723117883526.jpg"><br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723117892068.jpg"></p>
-<p>值得一提的是，这个Android固件已经内置了SuperSU，也就是说它是有ROOT权限的，理论上你可以在上面安装原版的 <code>Xposed 2.6</code> ，然后使用例如 <code>GravityBox</code> 等经典工具对系统进行修改。<br><img src="https://cdn.seimo.cn/pintu-fulicat.com-1723124825604.jpg"></p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>Kindle 作为一款电子阅读器本身并没有什么好说的，这篇文章也只是这几天对这台机器折腾内容的一个总结，各种材料网路上已经非常详细，也没必要再大费周章地去重复，大家看个乐就好。</p>
-<p>总的来说，对于我自己还是比较满意这台机器的，作为一台电子阅读器，他做好了它本就该做好的工作，同时也有相当的拓展乐趣，或许多看没有适配这个型号才是它唯一的缺憾吧…</p>
-<h2 id="参考内容"><a href="#参考内容" class="headerlink" title="参考内容"></a>参考内容</h2><blockquote>
-<p>书伴<br>维基百科<br>亚马逊中国</p>
+    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
+    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
 </blockquote>
+<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
+<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
+<p>然后返回主页。</p>
+<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
+<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
+<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
+<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
+<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>领取成功即可。</p>
+<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
+<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
+<p>点击【进入考试】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
+<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
+<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
 ]]></content>
       <categories>
-        <category>评测</category>
+        <category>教程</category>
       </categories>
       <tags>
-        <tag>评测</tag>
-        <tag>Kindle</tag>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>洛必达法则在高中数学中的简单应用</title>
+    <url>/2023/07/04/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%9C%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
+</blockquote>
+<h2 id="0x0-洛必达是什么"><a href="#0x0-洛必达是什么" class="headerlink" title="0x0 洛必达是什么"></a>0x0 洛必达是什么</h2><p>对于<code>洛必达法则</code>，维基百科是这样介绍的:</p>
+<blockquote>
+<p>洛必达法则（法语：Règle de L’Hôpital，英语：L’Hôpital’s rule）是利用导数来计算具有不定型的极限的方法。该法则以法国数学家纪尧姆·德·洛必达的名字命名，但实际上是由瑞士数学家<a href="https://zh.wikipedia.org/zh-cn/%E7%B4%84%E7%BF%B0%C2%B7%E7%99%BD%E5%8A%AA%E5%88%A9" title="这是一个维基链接，在中国大陆可能无法正常访问">约翰·伯努利</a>所发现。</p>
+</blockquote>
+<p>  借助一个简单的例子，我们可以轻松了解什么是洛必达法则:</p>
+<ul>
+<li><p>例 0-1</p>
+<p>对于函数 $f(x)&#x3D;\frac{ln(x)}{x-1}$ ，求$\lim_{x \to 1}f(x)$的极限。</p>
+<p>通过简单的取特殊值描点连线，我们可以得到该函数的图像:</p>
+<p><img src="https://s1.ax1x.com/2023/07/04/pCscOfg.png"><br>当我们试图将$x&#x3D;1$代入函数式时，我们会发现，分母$x-1$在此时等于$0$，明显地，这是有悖于我们的常识，分母是不能为$0$的</p>
+<p>那么我们该如何解决这个问题呢？</p>
+<p>现在我们将分子和分母拆分来看，分别得到函数式和图像:<br>$$<br>g(x)&#x3D;ln(x)<br>$$<br><img src="https://s1.ax1x.com/2023/07/04/pCsgs3Q.png"><br>$$<br>h(x)&#x3D;x-1<br>$$</p>
+<p><img src="https://s1.ax1x.com/2023/07/04/pCsg2Bq.png"></p>
+<p>不难发现，函数$g(x)$和$h(x)$均过点$(1,0)$，故我们将其无限放大，由于两者均为可微函数，且可微函数局部是线性的，因此二者的无限放大图像均为直线。</p>
+<p>回想我们曾经学到的关于<code>斜率</code>的定义，可以意识到，在这种极限情况下，我们可以将极限处的斜率作为函数值使用，故可得:</p>
+<p>$$<br>lim_{(x\to 1)}f(x)&#x3D;lim_{(x\to 1)}\frac{g(x)}{h(x)}&#x3D;lim_{(x\to 1)}\frac{g’(x)}{h’(x)}&#x3D;lim_{(x\to 1)}\frac{\frac{1}{x}}{1}&#x3D;1<br>$$</p>
+</li>
+</ul>
+<h2 id="0x1-洛必达法则的局限性"><a href="#0x1-洛必达法则的局限性" class="headerlink" title="0x1 洛必达法则的局限性"></a>0x1 洛必达法则的局限性</h2><ol>
+<li>分子分母同时趋向于$0$($\frac{0}{0}$)或同时趋向于$\infty$($\frac{\infty}{\infty}$)</li>
+<li>分子分母在限定的区域内是否分别可导。</li>
+<li>高考不可用(Doge)</li>
+</ol>
+<h2 id="0x2-洛必达法则在高中阶段的例题实战"><a href="#0x2-洛必达法则在高中阶段的例题实战" class="headerlink" title="0x2 洛必达法则在高中阶段的例题实战"></a>0x2 洛必达法则在高中阶段的例题实战</h2><ul>
+<li><p>例2-1</p>
+<p>  当$x&gt;0$时，不等式$e^x {\geq} ax+1$恒成立，求实数$a$的取值范围。</p>
+<p>  解答：</p>
+<p>  分离参数得$a{\leq}\frac{e^x-1}{x}$，其中$a&gt;0$</p>
+<p>  令$f(x)&#x3D;\frac{e^x-1}{x}$，对其求导得</p>
+<p>  $f’(x)&#x3D;\frac{(x-1)e^x+1}{x^2}$，令$g(x)&#x3D;(x-1)e^x+1&#x3D;0$</p>
+<p>  得$x&#x3D;0$</p>
+<p>  对$g(x)$求导，得$g’(x)&#x3D;xe^x$，当$x&gt;0$时，$g’(x)&gt;0$</p>
+<p>  因此$g(x)$在$x&gt;0$时单调递增</p>
+<p>  要求$a\le f(x)$恒成立，因此$a\le f(x)_{min}$，但当$x&#x3D;0$时，$e^x-1&#x3D;x&#x3D;0$，此即为$\frac{0}{0}$型不定式。根据洛必达法则，有：</p>
+<p>  $\lim_{x \rightarrow 0}{\frac{e^x-1}{x}}&#x3D;\lim_{x \rightarrow 0}{\frac{e^x}{1}}&#x3D;1$，因此$a\le 1$，实数 a 的取值范围是$(-\infty ,1]$。</p>
+</li>
+</ul>
+<h2 id="0x3-课后习题"><a href="#0x3-课后习题" class="headerlink" title="0x3 课后习题"></a>0x3 课后习题</h2><blockquote>
+<p>若不等式$ax&gt;sin(x)$对于$x\in (0,\frac{\pi}{2})$恒成立，求$a$的取值范围。</p>
+</blockquote>
+<p>  <em>(答案将会于稍晚些时候发布在评论区)</em></p>
+]]></content>
+      <categories>
+        <category>数学</category>
+      </categories>
+      <tags>
+        <tag>高中数学</tag>
+        <tag>洛必达</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【汉化】Windows/Office数字激活工具</title>
+    <url>/2023/10/05/%E3%80%90%E6%B1%89%E5%8C%96%E3%80%91Windows-Office%E6%95%B0%E5%AD%97%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
+</blockquote>
+<p><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">原版链接</a></p>
+<blockquote>
+<p>此工具仅用于学习交流，请勿用于商业用途。<br><img src="https://i.imgs.ovh/2023/10/05/LAi0I.png" alt="LAi0I.png"><br>已获得原作者<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/issues/275">授权</a>进行汉化</p>
+</blockquote>
+<h3 id="屏幕截图"><a href="#屏幕截图" class="headerlink" title="屏幕截图"></a>屏幕截图</h3><p><a href="https://imgloc.com/image/LA4aJ"><img src="https://i.imgs.ovh/2023/10/05/LA4aJ.png" alt="LA4aJ.png"></a><br><img src="https://i.imgs.ovh/2023/10/05/LAY3W.png" alt="LAY3W.png"><br><img src="https://i.imgs.ovh/2023/10/05/LAdOv.png" alt="LAdOv.png"><br><a href="https://imgloc.com/image/LA8Ee"><img src="https://i.imgs.ovh/2023/10/05/LA8Ee.png" alt="LA8Ee.png"></a></p>
+<h3 id="汉化版本下载链接"><a href="#汉化版本下载链接" class="headerlink" title="汉化版本下载链接"></a>汉化版本下载链接</h3><p><a href="https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese/tree/master">Github</a></p>
+<p><a href="https://www.123pan.com/s/T1LcVv-nfrwd.html">123网盘</a>   <code>   提取码:ETnt</code></p>
+]]></content>
+      <categories>
+        <category>汉化</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>Office</tag>
+        <tag>Windows</tag>
+        <tag>HWID2</tag>
       </tags>
   </entry>
   <entry>
