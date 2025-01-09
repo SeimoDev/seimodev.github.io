@@ -161,6 +161,84 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
+    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
+</blockquote>
+<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
+<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
+<p>然后返回主页。</p>
+<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
+<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
+<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
+<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
+<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>领取成功即可。</p>
+<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
+<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
+<p>点击【进入考试】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
+<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
+<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Seimo和ta的2024</title>
+    <url>/2025/01/10/%E6%88%91%E7%9A%84Geeker%E7%94%9F%E6%B6%AF/</url>
+    <content><![CDATA[<p>终于，期末周结束了，我也有机会在写写我的2024<del>年度流水账</del>了。</p>
+<p>一转眼，我的人生已经过去近1&#x2F;4了，悠悠<code>20</code>载。毫无疑问：2024年是我人生中目前为止最棒的一年！</p>
+<p>年初时候，终于拿到了心心念念的呼号，<code>BI6PCR</code>这个名字，也将长期甚至永久陪伴着我，也意味着我终于可以光明正大且<strong>合法</strong>地进行业余无线电通联。同时也是人生中第一次尝试接收国际空间站的信号，在朋友的帮助下，虽然效果不是非常完美，但也很理想了。<br><img src="https://cdn.seimo.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-01-10_003955_580.png"></p>
+<p>随后到了四五月份的时候，我偶然间在<code>X</code>上刷到的一篇推文，随手填了个报名表。没想到，这一次随手，将成为改变我的巨大转机。</p>
+<p><img src="https://cdn.seimo.cn/20250110005652.png"></p>
+<p>如果你恰巧有关注我平日的社媒推文，你估计已经猜到了，那次我成功拿到了<code>AdventureX 2024</code>的邀请函，这是我人生中第一次参加黑客松，也是一次点燃希望的旅程。可以说，这次经历无论从人脉，技术，眼界亦或者别的地方，给我带来的震撼都是前所未有，无与伦比的。</p>
+<blockquote>
+<p>谁小时候没有梦想呢？谁又真的有勇气去实现自己的梦想呢？</p>
+</blockquote>
+<p>在<code>AdventureX</code>，令我震撼的不仅仅是各位优秀的选手，还有主办方的各位。作为高中生居然可以调动这么多的资源，居然可以有如此高的策划水平，这是我和我身边的几乎所有同学以往想都不敢想的事情。我和周围的人都被关在高考的象牙塔里，这种禁锢是主动和被动双重的。以至于我不禁想问：</p>
+<blockquote>
+<p>我们花费将近人生1&#x2F;5的时间学一些在生活工作上完全用不到的东西，究竟是为了什么？</p>
+</blockquote>
+<p>十月份，我一人踏上了前往<code>Hongkong</code>的路，经历了将近<code>20</code>小时的火车硬座，到达深圳，和 <code>@白毛</code> 会面，虽在港只有一天时间，但至少拿下了<code>HSBC</code>, <code>BOCHK</code>, <code>ZABank</code>的开户，还卖到了心心念念的<code>AIME</code>卡，打卡了朝思暮想的<code>ICAC</code>总部和香港立法会。在深圳到<code>海岸时代大厦</code>楼下拍了张照片，这趟旅程也就结束了…哦对，还有返程近<code>20</code>个小时的绿皮车硬座🤣</p>
+<p><img src="https://cdn.seimo.cn/IMG_20250110_020019.jpg"></p>
+<p>十一月其实也很忙，基本每个周末都要出门。先是去了<code>Google Developer Group Zhengzhou</code>的社区<code>DevCon</code>，然后去了武汉的一场三小时极限黑客松，还带了不少学弟学妹一起，希望多少能帮助ta们吧~</p>
+<p>这一年，我开始尝试一个人进行前后端的全栈开发，前端从<code>HTML</code>原始人开始向<code>Vue</code>转变。同时也是我从一个坚定的原生拥护者向<code>Docker</code>转变的开端，起初觉得<code>Docker</code>好复杂，纯属脱裤子放屁，用着用着才发现…嗯，真香。</p>
+<p>今年也是我面基网友最多的一年，<code>5.1</code>的时候在武汉面了<code>世界三傻</code>，在<code>AdventureX</code>面了一群推上的大佬，尤其要感谢<code>烟波</code>和<code>Steven Lynn</code>，他们在我陷入无限的自我怀疑的时候给我了肯定的反馈，帮助我走出自我否定的焦虑情绪。</p>
+<p>今年我做的最多的一件事情可能就是思考产品，我们会发现大部分的独立开发者都困在自己的信息茧房里。技术发展的目的应该是服务育人，仅根据自己的喜好和目标开发仅仅能算一种爱好，只有充分分析市场需求才是<code>利群</code>的行为。</p>
+<p>绝大多数非计算机行业从业人员，对技术应用的认知水平低到我们难以想象，举个最简单的例子：<code>他们大部分人是不知道AI是会伪造事实的。</code>正如最近大家在<code>X</code>上调侃的<code>不会代码全靠AI开发应用收入百万</code>之类的，事实就相当于把现代世界上最好的一把单兵作战武器给一个中世纪士兵，那他大概率也是不会用的，因为他不懂基础和原理。所以在我们看来简单的像喝水一样的事情，对其他人来说可能就是魔法。</p>
+<p>虽然这么说，但其实还是做了一些有趣的小玩具呢，不过也仅限于小玩具罢了，没什么商用价值().</p>
+<p><img src="https://cdn.seimo.cn/20250110015624.png"><br><img src="https://cdn.seimo.cn/20250110015647.png"></p>
+<p>年末也给我带来了不少惊喜，比如被<code>Spark Lab S2</code>录取，很期待二月份与大家见面呢~</p>
+<p>最后，我想列举一下我能记起的长久以来在互联网上帮助过我的人，提及一下他们在我心中的ID，以示尊重：<br>(排名不分前后，仅限于首次相识在线上且不是日常在一起的朋友。如有遗漏欢迎随时cue我)</p>
+<blockquote>
+<p><code>Cute997</code> <code>光年</code> <code>长歌</code> <code>过去</code> <code>孙程朗</code> <code>山形まり花</code> <code>平安果主题</code> <code>帽子jun</code> <code>救禅</code> <code>暗梦幻夕</code> <code>星光世界</code> <code>TGP不是启动器</code> <code>VAPESMAN</code> <code>世界三傻</code> <code>喵喵小饭团</code> <span style="border: 2px solid black; padding: 1px;"><code>海岸幻想兔酱</code></span> <code>星空未来</code> <code>杯子下面有块糖</code> <code>泽渡雫</code> <code>杏铃</code> <code>橙橙今天吃什么</code> <code>子龙zj</code> <code>xzr</code> <code>麻豆主题</code> <code>岁纳京子</code> <code>注销酱</code> <code>小家伙su</code> <code>马丁龙猪</code> <code>秋叶随风</code> <code>酱紫</code> <code>JLJDZZY</code> <code>白毛</code> <code>水龙</code> <code>404 Not Found</code> <code>某贼</code> <code>糸北</code> <code>Fleey多多</code> <code>月曜</code> <code>戴哥</code> <code>双霖</code> <code>lz差不多是条咸鱼了</code> <code>溴化锂</code> <code>Cicada000</code> <code>任永铨</code> <code>蓝点网</code> <code>SkyWT</code> <code>薇龙</code> <code>Kronight</code> <code>烟波</code> <code>Steven Lynn</code> <code>探姬</code> <code>Cikey</code> <code>Ryan.eth</code> </p>
+</blockquote>
+<p>BTW 马原补考又没过,<em>Fuck You</em>.</p>
+]]></content>
+      <categories>
+        <category>吹水</category>
+      </categories>
+      <tags>
+        <tag>回忆录</tag>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>(可能是)中文互联网最完备的PIFuHD本地部署指南</title>
     <url>/2023/09/19/%E5%8F%AF%E8%83%BD%E6%98%AF-%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%80%E5%AE%8C%E5%A4%87%E7%9A%84PIFuHD%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97/</url>
     <content><![CDATA[<blockquote>
@@ -271,137 +349,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Seimo和ta的2024</title>
-    <url>/2025/01/10/%E6%88%91%E7%9A%84Geeker%E7%94%9F%E6%B6%AF/</url>
-    <content><![CDATA[<p>终于，期末周结束了，我也有机会在写写我的2024<del>年度流水账</del>了。</p>
-<p>一转眼，我的人生已经过去近1&#x2F;4了，悠悠<code>20</code>载。毫无疑问：2024年是我人生中目前为止最棒的一年！</p>
-<p>年初时候，终于拿到了心心念念的呼号，<code>BI6PCR</code>这个名字，也将长期甚至永久陪伴着我，也意味着我终于可以光明正大且<strong>合法</strong>地进行业余无线电通联。同时也是人生中第一次尝试接收国际空间站的信号，在朋友的帮助下，虽然效果不是非常完美，但也很理想了。<br><img src="https://cdn.seimo.cn/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-01-10_003955_580.png"></p>
-<p>随后到了四五月份的时候，我偶然间在<code>X</code>上刷到的一篇推文，随手填了个报名表。没想到，这一次随手，将成为改变我的巨大转机。</p>
-<p><img src="https://cdn.seimo.cn/20250110005652.png"></p>
-<p>如果你恰巧有关注我平日的社媒推文，你估计已经猜到了，那次我成功拿到了<code>AdventureX 2024</code>的邀请函，这是我人生中第一次参加黑客松，也是一次点燃希望的旅程。可以说，这次经历无论从人脉，技术，眼界亦或者别的地方，给我带来的震撼都是前所未有，无与伦比的。</p>
-<blockquote>
-<p>谁小时候没有梦想呢？谁又真的有勇气去实现自己的梦想呢？</p>
-</blockquote>
-<p>在<code>AdventureX</code>，令我震撼的不仅仅是各位优秀的选手，还有主办方的各位。作为高中生居然可以调动这么多的资源，居然可以有如此高的策划水平，这是我和我身边的几乎所有同学以往想都不敢想的事情。我和周围的人都被关在高考的象牙塔里，这种禁锢是主动和被动双重的。以至于我不禁想问：</p>
-<blockquote>
-<p>我们花费将近人生1&#x2F;5的时间学一些在生活工作上完全用不到的东西，究竟是为了什么？</p>
-</blockquote>
-<p>十月份，我一人踏上了前往<code>Hongkong</code>的路，经历了将近<code>20</code>小时的火车硬座，到达深圳，和 <code>@白毛</code> 会面，虽在港只有一天时间，但至少拿下了<code>HSBC</code>, <code>BOCHK</code>, <code>ZABank</code>的开户，还卖到了心心念念的<code>AIME</code>卡，打卡了朝思暮想的<code>ICAC</code>总部和香港立法会。在深圳到<code>海岸时代大厦</code>楼下拍了张照片，这趟旅程也就结束了…哦对，还有返程近<code>20</code>个小时的绿皮车硬座🤣</p>
-<p><img src="https://cdn.seimo.cn/IMG_20250110_020019.jpg"></p>
-<p>十一月其实也很忙，基本每个周末都要出门。先是去了<code>Google Developer Group Zhengzhou</code>的社区<code>DevCon</code>，然后去了武汉的一场三小时极限黑客松，还带了不少学弟学妹一起，希望多少能帮助ta们吧~</p>
-<p>这一年，我开始尝试一个人进行前后端的全栈开发，前端从<code>HTML</code>原始人开始向<code>Vue</code>转变。同时也是我从一个坚定的原生拥护者向<code>Docker</code>转变的开端，起初觉得<code>Docker</code>好复杂，纯属脱裤子放屁，用着用着才发现…嗯，真香。</p>
-<p>今年也是我面基网友最多的一年，<code>5.1</code>的时候在武汉面了<code>世界三傻</code>，在<code>AdventureX</code>面了一群推上的大佬，尤其要感谢<code>烟波</code>和<code>Steven Lynn</code>，他们在我陷入无限的自我怀疑的时候给我了肯定的反馈，帮助我走出自我否定的焦虑情绪。</p>
-<p>今年我做的最多的一件事情可能就是思考产品，我们会发现大部分的独立开发者都困在自己的信息茧房里。技术发展的目的应该是服务育人，仅根据自己的喜好和目标开发仅仅能算一种爱好，只有充分分析市场需求才是<code>利群</code>的行为。</p>
-<p>绝大多数非计算机行业从业人员，对技术应用的认知水平低到我们难以想象，举个最简单的例子：<code>他们大部分人是不知道AI是会伪造事实的。</code>正如最近大家在<code>X</code>上调侃的<code>不会代码全靠AI开发应用收入百万</code>之类的，事实就相当于把现代世界上最好的一把单兵作战武器给一个中世纪士兵，那他大概率也是不会用的，因为他不懂基础和原理。所以在我们看来简单的像喝水一样的事情，对其他人来说可能就是魔法。</p>
-<p>虽然这么说，但其实还是做了一些有趣的小玩具呢，不过也仅限于小玩具罢了，没什么商用价值().</p>
-<p><img src="https://cdn.seimo.cn/20250110015624.png"><br><img src="https://cdn.seimo.cn/20250110015647.png"></p>
-<p>年末也给我带来了不少惊喜，比如被<code>Spark Lab S2</code>录取，很期待二月份与大家见面呢~</p>
-<p>最后，我想列举一下我能记起的长久以来在互联网上帮助过我的人，提及一下他们在我心中的ID，以示尊重：<br>(排名不分前后，仅限于首次相识在线上且不是日常在一起的朋友。如有遗漏欢迎随时cue我)</p>
-<blockquote>
-<p><code>Cute997</code> <code>光年</code> <code>长歌</code> <code>过去</code> <code>孙程朗</code> <code>山形まり花</code> <code>平安果主题</code> <code>帽子jun</code> <code>救禅</code> <code>暗梦幻夕</code> <code>星光世界</code> <code>TGP不是启动器</code> <code>VAPESMAN</code> <code>世界三傻</code> <code>喵喵小饭团</code> <span style="border: 2px solid black; padding: 1px;"><code>海岸幻想兔酱</code></span> <code>星空未来</code> <code>杯子下面有块糖</code> <code>泽渡雫</code> <code>杏铃</code> <code>橙橙今天吃什么</code> <code>子龙zj</code> <code>xzr</code> <code>麻豆主题</code> <code>岁纳京子</code> <code>注销酱</code> <code>小家伙su</code> <code>马丁龙猪</code> <code>秋叶随风</code> <code>酱紫</code> <code>JLJDZZY</code> <code>白毛</code> <code>水龙</code> <code>404 Not Found</code> <code>某贼</code> <code>糸北</code> <code>Fleey多多</code> <code>月曜</code> <code>戴哥</code> <code>双霖</code> <code>lz差不多是条咸鱼了</code> <code>溴化锂</code> <code>Cicada000</code> <code>任永铨</code> <code>蓝点网</code> <code>SkyWT</code> <code>薇龙</code> <code>Kronight</code> <code>烟波</code> <code>Steven Lynn</code> <code>探姬</code> <code>Cikey</code> <code>Ryan.eth</code> </p>
-</blockquote>
-<p>BTW 马原补考又没过,<em>Fuck You</em>.</p>
-]]></content>
-      <categories>
-        <category>吹水</category>
-      </categories>
-      <tags>
-        <tag>回忆录</tag>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
-    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
-<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
-<p>然后返回主页。</p>
-<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
-<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
-<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
-<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
-<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
-<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
-<p>领取成功即可。</p>
-<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
-<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
-<p>点击【进入考试】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
-<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
-<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>究极偏执的产物?小米13Ultra半月使用杂谈</title>
-    <url>/2023/07/20/%E7%A9%B6%E6%9E%81%E5%81%8F%E6%89%A7%E7%9A%84%E4%BA%A7%E7%89%A9-%E5%B0%8F%E7%B1%B313Ultra%E5%8D%8A%E6%9C%88%E4%BD%BF%E7%94%A8%E6%9D%82%E8%B0%88/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrUyR.png" alt="img"></p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今年4.18日小米发布了13系列的超大杯产品 –小米13Ultra。</p>
-<p>那晚，我坐在教室，用了半个晚自习的时间看完了直播。骁龙8G2，IMX989，IMX858*3，多摄调色，可变光圈，UltraRaw，4K60&#x2F;8K24，miLog，杜比视界，IP68，开放的Bootloader解锁政策，USB3.0等等，这就是当今你所能够找到的安卓端的影像旗舰中最全能的之一，或许没有之一。直播结束后，我说：一定要买一台。</p>
-<p>我没有说别家的989旗舰不好，它们都很优秀，哈苏的色彩我也很喜欢，但是不得不承认，对于一个离不开ROOT的用户来说，小米13Ultra是我唯一的选择。</p>
-<p>于是7月3号那一天，刚刚结束高考不久的我，拿到了这台手机：小米13Ultra橄榄绿16+512。看到它的第一印象，那就是：厚重。作为一个从OnePlus8T换过来的用户，重量一下子从188g提升到227g，这感知，是真的明显，甚至再拿起我148g的备用机iPhone SE2，这真的很让人不禁怀疑，这真的是一台正常的手机吗？</p>
-<h2 id="相机"><a href="#相机" class="headerlink" title="相机"></a>相机</h2><p>既然这台机器最重要的点就是它的相机，那么废话不多说，直接上样片：</p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHr0w6.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrBTK.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrsYD.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHryfe.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrgld.png" alt="img"></p>
-<p>这些是我用了这么多天后自认为拍得还可以的一些照片，当然好看的肯定不止这几张，但限于篇幅我不能再放更多了，如果你感兴趣，或许我可以把好看的照片单独发出来。</p>
-<p>另外还需要提到的一点是得益于IMX858，这次终于可以实现多摄同步调色，也就是说三颗副摄像头也都全部支持莱卡影调的调色，并且素质都不差，在专业模式下还可以拍摄DNG格式的14bit UltraRaw照片，给后期留下更充足的空间，唯一一点就是专业模式下没有莱卡水印，当然这也可以理解，毕竟带着水印去PS里面调总归会有点怪怪的，水印也会变得不好看。</p>
-<p>那么有没有需要吐槽的地方呢？那当然有，你像手机的长焦镜头，明明原生倍率是2.6x，到了2.6x手机也确实会自动切换，但小米不知道怎么想的，在相机里只给了0.5x，1x，2x，3.2x，5x，这几个快捷档位，所以如果我想要用到长焦镜头的全部画面，只能手动调节，快捷档位只是个裁切。我知道肯定会有人说：3.2x更利于构图所以才把它放在快捷档位，话是这么说没有错，可为什么不干脆直接做成原生3.2x或者直接在设置里面提供一个修改快捷档位的选项呢？是吧小米。</p>
-<p>那么说完拍照就该讲讲录像了，简单概括就是：很强，但不是最强。虽然说参数最高给到了8K24fps，尽管你只能拍六分钟，但是如果你打开HDR或者万物追焦，那么你只能获得最高4K30fps的视频录制规格，并且这两项功能还不能同时打开，也就是说你要么HDR和万物追焦都不开，这样你可以最高开到8K24fps的视频，或者你可以开启二者之一，然后录制4K30fps的视频，另外在超级防抖和超级防抖Pro模式下你都只能拍摄1080p30fps的规格，你不能升档，也不能降档，杜比视界也只支持1080p和4K两种画质，这有点可惜。另外它也支持h.264和h.265的规格，你可以自由选择，当然也不要奢望它能给你上ProRes，这不现实。</p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrh0P.png" alt="img"></p>
-<p>在专业模式下，开启miLog，你可以拍摄4k24fps&#x2F;4k30fps 10bit Raw的规格，不过需要注意的是，只有主摄IMX989支持log录制，其他副摄均不支持。在录制的同时你可以同时套用LUT进行实时监看。当然，log模式下也不支持杜比视界。</p>
-<h2 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h2><p>那么说完相机，我们再来这台手机另一个重点：性能。</p>
-<p>小米13Ultra搭载了2023年统一分配的骁龙8Gen2处理器以及LPDDR5x内存，UFS4.0闪存，性能释放属于第一梯队。跑分什么的我觉得大家肯定都看腻了，我们不如直接整点花活：原神4x分辨率渲染</p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrIk8.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrotS.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrTfg.png" alt="img"></p>
-<p>在4x分辨率下，原神短时间内可以跑到平均12.5帧，已经是属于一个能玩的水平了(bushi)，平均能耗6.56w，调度还是比较保守。</p>
-<p>另外，这次骁龙8Gen2还带来了一个特别的功能：光线追踪，至于效果如何，我只能说：支持了，但仅仅是支持了。</p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrHpQ.png" alt="img"></p>
-<p>GPU Score光追测试480p分辨率下平均帧率45.1，1080p分辨率下平均帧率14.0，属于看个乐子的水平。</p>
-<p>散热方面，由于我没有用过888和8gen1,也不好评价跟这两款的区别，就说说我之前用的865吧，正常使用室内8gen2发热较865区别不是很大，但是到了室外没有wifi的地方，由于865是外挂5G，8gen2与其相比会好不少。</p>
-<h2 id="外围"><a href="#外围" class="headerlink" title="外围"></a>外围</h2><p>外围方面首先这次小米13Ultra声称使用了90w有线充电，50w无线充电并且支持10w无线反冲。单从有线方面进行测试：息屏峰值可达70w，而后慢慢稳定在40w左右，实测从30%到100%充满约27分钟。</p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrblj.png" alt="img"></p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrv7V.png" alt="img"></p>
-<p>除了充电，这次小米终于弃用了USB2.0，采用了USB3.2Gen1，算是巨大进步。</p>
-<p>马达方面，由于整机较为厚重，搭载的1010 X轴线性马达震感不算强烈，只能说够用，MIUI的振动调教也比较拉跨，不如之前一加8t的振动体验。</p>
-<p>其他方面红外和NFC这些小米祖传的东西依旧没变，希望小米有机会能升级可学习或者可编程的红外发射器。需要说明的是，起初我用惯了一加的三段式开关忽然到了小米这边反而会有点不适应，问题不在于调整静音不方便了，而是少了一样可以拿来解压的东西。</p>
-<h2 id="玩机"><a href="#玩机" class="headerlink" title="玩机"></a>玩机</h2><p>作为吸引为购买这台手机的最重要的原因，玩机当然是必不可少的。我认为模块不一定要多，自己够用就行了，也不一定非得追求最新技术，官方版Magisk也够我用了，平使用的也就只有中国银行比较敏感，不过root设备也能正常使用人脸之外的功能，真的要给中行一个好评！并且包里随时放着一台iPhone，出门在外也不怕突发情况无法人脸导致的尴尬局面。</p>
-<p><img src="https://s1.ax1x.com/2023/07/20/pCHrzkT.png" alt="img"></p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>正如标题所说的，小米13Ultra是一款『究极偏执的产物』，是一款“不计后果”的影像旗舰。如果你对影像的需求不是这么高的话，小米13Pro或许可以是更好的选择，如果你真的需要这么顶的影像规格，那么你可以好好看看这台手机，不过最终的决定权在你手里，还是建议你到店里仔细把玩它和它的竞品们，毕竟它们都不便宜。</p>
-<p>好了，以上就是本期图文的全部内容了，这里是Seimo，我们下次再会。</p>
-]]></content>
-      <categories>
-        <category>评测</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>手机</tag>
-        <tag>体验</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>洛必达法则在高中数学中的简单应用</title>
     <url>/2023/07/04/%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E5%9C%A8%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<blockquote>
@@ -455,6 +402,59 @@
       <tags>
         <tag>高中数学</tag>
         <tag>洛必达</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>究极偏执的产物?小米13Ultra半月使用杂谈</title>
+    <url>/2023/07/20/%E7%A9%B6%E6%9E%81%E5%81%8F%E6%89%A7%E7%9A%84%E4%BA%A7%E7%89%A9-%E5%B0%8F%E7%B1%B313Ultra%E5%8D%8A%E6%9C%88%E4%BD%BF%E7%94%A8%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
+</blockquote>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrUyR.png" alt="img"></p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>今年4.18日小米发布了13系列的超大杯产品 –小米13Ultra。</p>
+<p>那晚，我坐在教室，用了半个晚自习的时间看完了直播。骁龙8G2，IMX989，IMX858*3，多摄调色，可变光圈，UltraRaw，4K60&#x2F;8K24，miLog，杜比视界，IP68，开放的Bootloader解锁政策，USB3.0等等，这就是当今你所能够找到的安卓端的影像旗舰中最全能的之一，或许没有之一。直播结束后，我说：一定要买一台。</p>
+<p>我没有说别家的989旗舰不好，它们都很优秀，哈苏的色彩我也很喜欢，但是不得不承认，对于一个离不开ROOT的用户来说，小米13Ultra是我唯一的选择。</p>
+<p>于是7月3号那一天，刚刚结束高考不久的我，拿到了这台手机：小米13Ultra橄榄绿16+512。看到它的第一印象，那就是：厚重。作为一个从OnePlus8T换过来的用户，重量一下子从188g提升到227g，这感知，是真的明显，甚至再拿起我148g的备用机iPhone SE2，这真的很让人不禁怀疑，这真的是一台正常的手机吗？</p>
+<h2 id="相机"><a href="#相机" class="headerlink" title="相机"></a>相机</h2><p>既然这台机器最重要的点就是它的相机，那么废话不多说，直接上样片：</p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHr0w6.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrBTK.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrsYD.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHryfe.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrgld.png" alt="img"></p>
+<p>这些是我用了这么多天后自认为拍得还可以的一些照片，当然好看的肯定不止这几张，但限于篇幅我不能再放更多了，如果你感兴趣，或许我可以把好看的照片单独发出来。</p>
+<p>另外还需要提到的一点是得益于IMX858，这次终于可以实现多摄同步调色，也就是说三颗副摄像头也都全部支持莱卡影调的调色，并且素质都不差，在专业模式下还可以拍摄DNG格式的14bit UltraRaw照片，给后期留下更充足的空间，唯一一点就是专业模式下没有莱卡水印，当然这也可以理解，毕竟带着水印去PS里面调总归会有点怪怪的，水印也会变得不好看。</p>
+<p>那么有没有需要吐槽的地方呢？那当然有，你像手机的长焦镜头，明明原生倍率是2.6x，到了2.6x手机也确实会自动切换，但小米不知道怎么想的，在相机里只给了0.5x，1x，2x，3.2x，5x，这几个快捷档位，所以如果我想要用到长焦镜头的全部画面，只能手动调节，快捷档位只是个裁切。我知道肯定会有人说：3.2x更利于构图所以才把它放在快捷档位，话是这么说没有错，可为什么不干脆直接做成原生3.2x或者直接在设置里面提供一个修改快捷档位的选项呢？是吧小米。</p>
+<p>那么说完拍照就该讲讲录像了，简单概括就是：很强，但不是最强。虽然说参数最高给到了8K24fps，尽管你只能拍六分钟，但是如果你打开HDR或者万物追焦，那么你只能获得最高4K30fps的视频录制规格，并且这两项功能还不能同时打开，也就是说你要么HDR和万物追焦都不开，这样你可以最高开到8K24fps的视频，或者你可以开启二者之一，然后录制4K30fps的视频，另外在超级防抖和超级防抖Pro模式下你都只能拍摄1080p30fps的规格，你不能升档，也不能降档，杜比视界也只支持1080p和4K两种画质，这有点可惜。另外它也支持h.264和h.265的规格，你可以自由选择，当然也不要奢望它能给你上ProRes，这不现实。</p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrh0P.png" alt="img"></p>
+<p>在专业模式下，开启miLog，你可以拍摄4k24fps&#x2F;4k30fps 10bit Raw的规格，不过需要注意的是，只有主摄IMX989支持log录制，其他副摄均不支持。在录制的同时你可以同时套用LUT进行实时监看。当然，log模式下也不支持杜比视界。</p>
+<h2 id="性能"><a href="#性能" class="headerlink" title="性能"></a>性能</h2><p>那么说完相机，我们再来这台手机另一个重点：性能。</p>
+<p>小米13Ultra搭载了2023年统一分配的骁龙8Gen2处理器以及LPDDR5x内存，UFS4.0闪存，性能释放属于第一梯队。跑分什么的我觉得大家肯定都看腻了，我们不如直接整点花活：原神4x分辨率渲染</p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrIk8.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrotS.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrTfg.png" alt="img"></p>
+<p>在4x分辨率下，原神短时间内可以跑到平均12.5帧，已经是属于一个能玩的水平了(bushi)，平均能耗6.56w，调度还是比较保守。</p>
+<p>另外，这次骁龙8Gen2还带来了一个特别的功能：光线追踪，至于效果如何，我只能说：支持了，但仅仅是支持了。</p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrHpQ.png" alt="img"></p>
+<p>GPU Score光追测试480p分辨率下平均帧率45.1，1080p分辨率下平均帧率14.0，属于看个乐子的水平。</p>
+<p>散热方面，由于我没有用过888和8gen1,也不好评价跟这两款的区别，就说说我之前用的865吧，正常使用室内8gen2发热较865区别不是很大，但是到了室外没有wifi的地方，由于865是外挂5G，8gen2与其相比会好不少。</p>
+<h2 id="外围"><a href="#外围" class="headerlink" title="外围"></a>外围</h2><p>外围方面首先这次小米13Ultra声称使用了90w有线充电，50w无线充电并且支持10w无线反冲。单从有线方面进行测试：息屏峰值可达70w，而后慢慢稳定在40w左右，实测从30%到100%充满约27分钟。</p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrblj.png" alt="img"></p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrv7V.png" alt="img"></p>
+<p>除了充电，这次小米终于弃用了USB2.0，采用了USB3.2Gen1，算是巨大进步。</p>
+<p>马达方面，由于整机较为厚重，搭载的1010 X轴线性马达震感不算强烈，只能说够用，MIUI的振动调教也比较拉跨，不如之前一加8t的振动体验。</p>
+<p>其他方面红外和NFC这些小米祖传的东西依旧没变，希望小米有机会能升级可学习或者可编程的红外发射器。需要说明的是，起初我用惯了一加的三段式开关忽然到了小米这边反而会有点不适应，问题不在于调整静音不方便了，而是少了一样可以拿来解压的东西。</p>
+<h2 id="玩机"><a href="#玩机" class="headerlink" title="玩机"></a>玩机</h2><p>作为吸引为购买这台手机的最重要的原因，玩机当然是必不可少的。我认为模块不一定要多，自己够用就行了，也不一定非得追求最新技术，官方版Magisk也够我用了，平使用的也就只有中国银行比较敏感，不过root设备也能正常使用人脸之外的功能，真的要给中行一个好评！并且包里随时放着一台iPhone，出门在外也不怕突发情况无法人脸导致的尴尬局面。</p>
+<p><img src="https://s1.ax1x.com/2023/07/20/pCHrzkT.png" alt="img"></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>正如标题所说的，小米13Ultra是一款『究极偏执的产物』，是一款“不计后果”的影像旗舰。如果你对影像的需求不是这么高的话，小米13Pro或许可以是更好的选择，如果你真的需要这么顶的影像规格，那么你可以好好看看这台手机，不过最终的决定权在你手里，还是建议你到店里仔细把玩它和它的竞品们，毕竟它们都不便宜。</p>
+<p>好了，以上就是本期图文的全部内容了，这里是Seimo，我们下次再会。</p>
+]]></content>
+      <categories>
+        <category>评测</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>手机</tag>
+        <tag>体验</tag>
       </tags>
   </entry>
 </search>
