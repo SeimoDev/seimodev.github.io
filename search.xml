@@ -13,6 +13,44 @@
       </tags>
   </entry>
   <entry>
+    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
+    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
+</blockquote>
+<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
+<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
+<p>然后返回主页。</p>
+<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
+<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
+<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
+<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
+<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
+<p>领取成功即可。</p>
+<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
+<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
+<p>点击【进入考试】</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
+<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
+<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
+<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Kindle老矣，尚能饭否？</title>
     <url>/2024/08/06/Kindle%E8%80%81%E7%9F%A3%EF%BC%8C%E5%B0%9A%E8%83%BD%E9%A5%AD%E5%90%A6%EF%BC%9F/</url>
     <content><![CDATA[<p>前几天，我的朋友送了我一台Kindle7，我很好奇这台来自十年前的电子阅读器还能带来什么花样，于是就有了这篇文章。</p>
@@ -137,6 +175,63 @@
       </tags>
   </entry>
   <entry>
+    <title>【汉化】Windows/Office数字激活工具</title>
+    <url>/2023/10/05/%E3%80%90%E6%B1%89%E5%8C%96%E3%80%91Windows-Office%E6%95%B0%E5%AD%97%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<blockquote>
+<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
+</blockquote>
+<p><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">原版链接</a></p>
+<blockquote>
+<p>此工具仅用于学习交流，请勿用于商业用途。<br><img src="https://i.imgs.ovh/2023/10/05/LAi0I.png" alt="LAi0I.png"><br>已获得原作者<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/issues/275">授权</a>进行汉化</p>
+</blockquote>
+<h3 id="屏幕截图"><a href="#屏幕截图" class="headerlink" title="屏幕截图"></a>屏幕截图</h3><p><a href="https://imgloc.com/image/LA4aJ"><img src="https://i.imgs.ovh/2023/10/05/LA4aJ.png" alt="LA4aJ.png"></a><br><img src="https://i.imgs.ovh/2023/10/05/LAY3W.png" alt="LAY3W.png"><br><img src="https://i.imgs.ovh/2023/10/05/LAdOv.png" alt="LAdOv.png"><br><a href="https://imgloc.com/image/LA8Ee"><img src="https://i.imgs.ovh/2023/10/05/LA8Ee.png" alt="LA8Ee.png"></a></p>
+<h3 id="汉化版本下载链接"><a href="#汉化版本下载链接" class="headerlink" title="汉化版本下载链接"></a>汉化版本下载链接</h3><p><a href="https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese/tree/master">Github</a></p>
+<p><a href="https://www.123pan.com/s/T1LcVv-nfrwd.html">123网盘</a>   <code>   提取码:ETnt</code></p>
+]]></content>
+      <categories>
+        <category>汉化</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>Office</tag>
+        <tag>Windows</tag>
+        <tag>HWID2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用机场作为跳板自建高速节点</title>
+    <url>/2025/08/04/%E4%BD%BF%E7%94%A8%E6%9C%BA%E5%9C%BA%E4%BD%9C%E4%B8%BA%E8%B7%B3%E6%9D%BF%E8%87%AA%E5%BB%BA%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9/</url>
+    <content><![CDATA[<h2 id="前因"><a href="#前因" class="headerlink" title="前因"></a>前因</h2><p>最近看你们都在用 <code>Claude Code</code>，心里那叫一个馋啊。但是有可能是我平时用的机场的原因，导致我 Claude 账号几乎每次注册都是秒封的状态。刚好前几天看到 <a href="https://www.landiannews.com/">@蓝点网</a> 分享了很便宜的海外大宽带 VPS，一年只要 11 刀，于是果断下单打算自建节点。</p>
+<h2 id="发现问题"><a href="#发现问题" class="headerlink" title="发现问题"></a>发现问题</h2><p>搭建节点其实非常简单，VPS 配置好以后网上找个<strong>开源</strong>脚本运行一下无脑装就行了，但是装好之后，我发现一个非常严重的问题，这 tm 速度怎么那么慢啊！！！</p>
+<p><img src="https://cdn.seimo.cn/20250804231723.png"></p>
+<p>经过测速发现，服务器端的速度是非常快的</p>
+<p><img src="https://cdn.seimo.cn/20250804232146.png"></p>
+<p>那说明问题出在用户到服务器这段路程上了。</p>
+<h2 id="分析问题"><a href="#分析问题" class="headerlink" title="分析问题"></a>分析问题</h2><p>首先，我尝试切换到 BBR 防阻塞内核算法，但是提升不大，我又尝试切换了多种代理协议，也差别不大。这时我意识到，有可能是 VPS 与国内 ISP 的连接线路的问题，结果 Best Trace 一看，好家伙还真是饶了一大圈，那这种质量的线路速度垃圾点也情有可原了，毕竟这个价格要什么自行车嘛。</p>
+<p><img src="https://cdn.seimo.cn/QQ_1754321428274.png"></p>
+<h2 id="解决问题"><a href="#解决问题" class="headerlink" title="解决问题"></a>解决问题</h2><p>好，分析出来问题了，我们要解决问题。在机场业内，解决垃圾线路速度慢的问题其实很简单，上中转机就行了。但是，我们自建节点肯定不像机长们那么豪横，毕竟大宽带的优质线路机器成本高到离谱。那我就在想，有没有什么办法既便宜又能解决问题呢？</p>
+<p>欸嘿，那肯定有了。既然我们只是为了获取一个纯净的落地 ip，又恰好我的机场还有很长时间到期，那干脆拿机场做中转不就好了？反正不拿这个节点打游戏，延迟什么的也无所谓。在与 Gemini 交流了我的想法后，Gemini 告诉我我的办法完全可行，只需简单修改订阅配置文件就可以做到！</p>
+<h2 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h2><p>我们这里从头开始讲一下完整的操作步骤。</p>
+<ol>
+<li>先有一个机场，如果你还没有，欢迎使用我<a href="https://www.tntv2.online/auth/register?code=bcXC">同款机场</a></li>
+<li>买一台 VPS，同理，如果你还没有，欢迎使用我<a href="https://my.racknerd.com/aff.php?aff=15272">同款 VPS</a></li>
+<li>ssh 连接你购买的 VPS (如果不会请自行 Google 或询问大语言模型)</li>
+<li>找一个你喜欢的代理协议并安装，我选择的是 Vmess, 你也可以选择别的，一般都可以根据相关文档安装服务端，或者在 Github 上寻找一键安装脚本</li>
+<li>获取你机场的订阅文件，把你的 clash 订阅链接放到浏览器打开，保存为一个 <code>yaml</code> 文件</li>
+<li>编辑上一步保存的 <code>yaml</code>文件，在里面添加你的节点信息。将你的自建节点信息添加到 <code>proxies</code> 组，然后创建一个类型为 <code>relay</code> 的 <code>proxy-groups</code>，在里面先后添加你的机场节点和自建节点，这样就可以实现通过机场节点中转流量到你的自建节点，从而提高速度。以下是一个示例配置：<figure class="highlight yaml"><input class="btn-copy" type="image" src="/img/icon/copy.svg" alt="复制" /><table><tr><td class="code"><pre><span class="line"><span class="attr">proxies:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">&quot;HK-Node&quot;</span> <span class="comment">#机场节点</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">ss</span></span><br><span class="line">    <span class="attr">server:</span> <span class="string">hk.server.com</span></span><br><span class="line">    <span class="attr">port:</span> <span class="number">8888</span></span><br><span class="line">    <span class="attr">cipher:</span> <span class="string">aes-256-gcm</span></span><br><span class="line">    <span class="attr">password:</span> <span class="string">&quot;your_password&quot;</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">&quot;JP-Node&quot;</span> <span class="comment">#自建节点</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">vmess</span></span><br><span class="line">    <span class="attr">server:</span> <span class="string">jp.server.com</span></span><br><span class="line">    <span class="attr">port:</span> <span class="number">9999</span></span><br><span class="line">    <span class="attr">uuid:</span> <span class="string">&quot;your_uuid&quot;</span></span><br><span class="line">    <span class="attr">alterId:</span> <span class="number">0</span></span><br><span class="line">    <span class="attr">cipher:</span> <span class="string">auto</span></span><br><span class="line"><span class="attr">proxy-groups:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">&quot;全球精选&quot;</span> <span class="comment"># 您可能已有的主选择策略组</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">select</span></span><br><span class="line">    <span class="attr">proxies:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&quot;HK-Relay-JP&quot;</span> <span class="comment"># 将我们的双跳策略组加入其中</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&quot;HK-Node&quot;</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&quot;JP-Node&quot;</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&quot;DIRECT&quot;</span></span><br><span class="line"></span><br><span class="line">  <span class="bullet">-</span> <span class="attr">name:</span> <span class="string">&quot;HK-Relay-JP&quot;</span></span><br><span class="line">    <span class="attr">type:</span> <span class="string">relay</span></span><br><span class="line">    <span class="attr">proxies:</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&quot;HK-Node&quot;</span>   <span class="comment"># 入口节点，这里需要你从机场节点中选一个你觉得最好用的过来</span></span><br><span class="line">      <span class="bullet">-</span> <span class="string">&quot;JP-Node&quot;</span>   <span class="comment"># 出口（落地）节点</span></span><br><span class="line"><span class="string">...</span></span><br></pre></td></tr></table></figure></li>
+</ol>
+<p>以上，你成功解决了自建节点回国速度慢的问题。</p>
+]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>科学上网</tag>
+        <tag>梯子</tag>
+        <tag>技术交流</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Seimo和ta的2024</title>
     <url>/2025/01/10/Seimo%E5%92%8Cta%E7%9A%842024/</url>
     <content><![CDATA[<p>终于，期末周总算熬过去了，我终于能静下心来写写2024年的年度流水账了。</p>
@@ -177,68 +272,6 @@
       <tags>
         <tag>回忆录</tag>
         <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】阿里云弹性计算Clouder认证：ECS快速入门</title>
-    <url>/2023/11/09/%E3%80%90%E6%95%99%E7%A8%8B%E3%80%91%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%B9%E6%80%A7%E8%AE%A1%E7%AE%97Clouder%E8%AE%A4%E8%AF%81%EF%BC%9AECS%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<h2 id="1-注册阿里云"><a href="#1-注册阿里云" class="headerlink" title="1.注册阿里云"></a>1.注册阿里云</h2><p>电脑打开<a href="https://aliyun.com/">aliyun.com</a>官网，点击右上角登录&#x2F;注册</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgsoU.png" alt="lgsoU.png"></p>
-<p>使用支付宝扫码注册，在手机上按提示操作，并进行个人实名认证。</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgxY0.png" alt="lgxY0.png"></p>
-<p>然后返回主页。</p>
-<h2 id="2-进行学生认证"><a href="#2-进行学生认证" class="headerlink" title="2. 进行学生认证"></a>2. 进行学生认证</h2><p>打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
-<p>之后会弹出学生认证，使用手机支付宝扫码进行学生认证，认证时选择【学籍认证】，学信网验证码获取流程如下：</p>
-<h4 id="1-打开-学信网"><a href="#1-打开-学信网" class="headerlink" title="1. 打开 学信网"></a>1. 打开 <a href="https://www.chsi.com.cn/">学信网</a></h4><h4 id="2-点击【学籍查询】"><a href="#2-点击【学籍查询】" class="headerlink" title="2. 点击【学籍查询】"></a>2. 点击【学籍查询】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgoIt.png" alt="lgoIt.png"></p>
-<h4 id="3-登录后点击【在线验证报告】-【申请】"><a href="#3-登录后点击【在线验证报告】-【申请】" class="headerlink" title="3. 登录后点击【在线验证报告】-【申请】"></a>3. 登录后点击【在线验证报告】-【申请】</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgSzm.png" alt="lgSzm.png"></p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lguyN.jpeg" alt="lguyN.jpeg"></p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgOmR.png" alt="lgOmR.png"></p>
-<h4 id="4-获取验证码"><a href="#4-获取验证码" class="headerlink" title="4. 获取验证码"></a>4. 获取验证码</h4><p><img src="https://i0.imgs.ovh/2023/11/09/lgQcp.png" alt="lgQcp.png"></p>
-<h2 id="3-领取优惠券"><a href="#3-领取优惠券" class="headerlink" title="3.领取优惠券"></a>3.领取优惠券</h2><p>再次打开<a href="https://university.aliyun.com/">阿里云高校认证</a>页面，点击【立即领取】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgb2C.png" alt="lgb2C.png"></p>
-<p>领取成功即可。</p>
-<h2 id="5-报名课程"><a href="#5-报名课程" class="headerlink" title="5. 报名课程"></a>5. 报名课程</h2><p>进入<a href="https://edu.aliyun.com/certification/cldc17?spm=a2c6h.26504196.f4788ca263094fb1a2ee2d1c8565bd32.8.54c33ab1QqkOEW">报名页面</a>，点击【立即购买】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgJ2K.png" alt="lgJ2K.png"><br>选择【弹性计算】-【ECS快速入门】课程，点击【立即购买】</p>
-<h2 id="6-进入课程"><a href="#6-进入课程" class="headerlink" title="6. 进入课程"></a>6. 进入课程</h2><p>点击前往【我的认证】<br><img src="https://i0.imgs.ovh/2023/11/09/lgUzj.png" alt="lgUzj.png"></p>
-<p>点击【进入考试】</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgjCI.png" alt="lgjCI.png"></p>
-<h2 id="7-考试"><a href="#7-考试" class="headerlink" title="7. 考试"></a>7. 考试</h2><p>根据屏幕左侧【实验手册】提示操作即可<br><img src="https://i0.imgs.ovh/2023/11/09/lg5cJ.png" alt="lg5cJ.png"></p>
-<h2 id="8-领取证书"><a href="#8-领取证书" class="headerlink" title="8.领取证书"></a>8.领取证书</h2><p>完成考试并且合格后，返回【我的认证】页面，等待10s左右刷新即可领取证书</p>
-<p><img src="https://i0.imgs.ovh/2023/11/09/lgv6o.png" alt="lgv6o.png"></p>
-]]></content>
-      <categories>
-        <category>教程</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化】Windows/Office数字激活工具</title>
-    <url>/2023/10/05/%E3%80%90%E6%B1%89%E5%8C%96%E3%80%91Windows-Office%E6%95%B0%E5%AD%97%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7/</url>
-    <content><![CDATA[<blockquote>
-<p>2024年8月4日更新：图床跑路，所有图片均丢失</p>
-</blockquote>
-<p><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">原版链接</a></p>
-<blockquote>
-<p>此工具仅用于学习交流，请勿用于商业用途。<br><img src="https://i.imgs.ovh/2023/10/05/LAi0I.png" alt="LAi0I.png"><br>已获得原作者<a href="https://github.com/massgravel/Microsoft-Activation-Scripts/issues/275">授权</a>进行汉化</p>
-</blockquote>
-<h3 id="屏幕截图"><a href="#屏幕截图" class="headerlink" title="屏幕截图"></a>屏幕截图</h3><p><a href="https://imgloc.com/image/LA4aJ"><img src="https://i.imgs.ovh/2023/10/05/LA4aJ.png" alt="LA4aJ.png"></a><br><img src="https://i.imgs.ovh/2023/10/05/LAY3W.png" alt="LAY3W.png"><br><img src="https://i.imgs.ovh/2023/10/05/LAdOv.png" alt="LAdOv.png"><br><a href="https://imgloc.com/image/LA8Ee"><img src="https://i.imgs.ovh/2023/10/05/LA8Ee.png" alt="LA8Ee.png"></a></p>
-<h3 id="汉化版本下载链接"><a href="#汉化版本下载链接" class="headerlink" title="汉化版本下载链接"></a>汉化版本下载链接</h3><p><a href="https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese/tree/master">Github</a></p>
-<p><a href="https://www.123pan.com/s/T1LcVv-nfrwd.html">123网盘</a>   <code>   提取码:ETnt</code></p>
-]]></content>
-      <categories>
-        <category>汉化</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>Office</tag>
-        <tag>Windows</tag>
-        <tag>HWID2</tag>
       </tags>
   </entry>
   <entry>
